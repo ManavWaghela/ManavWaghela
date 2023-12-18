@@ -2,8 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Manav Waghela</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=coding+gif&sca_esv=591861726&biw=1536&bih=730&sxsrf=AM9HkKlnfKO5vPXwiM3wrawWLSU8Xvra5Q%3A1702908179356&ei=E1GAZfGkFZiD2roPgvquoAE&ved=0ahUKEwix-vWok5mDAxWYgVYBHQK9CxQQ4dUDCBA&uact=5&oq=coding+gif&gs_lp=Egxnd3Mtd2l6LXNlcnAiCmNvZGluZyBnaWYyChAAGIAEGIoFGEMyCxAAGIAEGIoFGJECMgoQABiABBiKBRhDMgoQABiABBiKBRhDMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESLo9UNIFWOc6cAV4AZABBJgBoQGgAbwWqgEEMC4yMLgBA8gBAPgBAagCFMICChAAGEcY1gQYsAPCAgQQIxgnwgIGEAAYFhgewgILEAAYgAQYigUYhgPCAgcQIxjqAhgnwgINEC4YxwEY0QMY6gIYJ8ICFhAAGAMYjwEY5QIY6gIYtAIYjAPYAQHCAhYQLhgDGI8BGOUCGOoCGLQCGIwD2AEBwgIKECMYgAQYigUYJ8ICFxAuGIAEGIoFGJECGLEDGIMBGMcBGNEDwgILEC4YgAQYsQMYgwHCAg4QABiABBiKBRixAxiDAcICCxAAGIAEGLEDGIMBwgIREC4YgAQYsQMYgwEYxwEY0QPCAhAQABiABBiKBRhDGLEDGIMBwgINEAAYgAQYigUYQxixA8ICDhAAGIAEGIoFGJECGLEDwgINEAAYgAQYigUYQxjJA8ICFhAuGIAEGIoFGEMYsQMYgwEYxwEYrwHCAgsQABiABBiKBRiSA8ICFhAuGIAEGIoFGEMYsQMYgwEYxwEY0QPCAgoQABiABBgUGIcCwgIREC4YgAQYsQMYgwEYxwEYrwHCAhcQLhiABBiKBRiRAhixAxiDARjHARivAcICDRAAGIAEGBQYhwIYyQPCAg0QABiABBgUGIcCGLEDwgIFEC4YgATiAwQYACBBiAYBkAYIugYGCAEQARgL&sclient=gws-wiz-serp#vhid=dbrfb5dvHO4gVM&vssid=l">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+add banner (use your links) :
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manavwaghela&label=Profile%20views&color=0e75b6&style=flat" alt="manavwaghela" /> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -18,3 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manavwaghela&show_icons=true&locale=en" alt="manavwaghela" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manavwaghela&" alt="manavwaghela" /></p>
+
